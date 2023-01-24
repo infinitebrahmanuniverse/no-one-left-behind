@@ -5,7 +5,7 @@ Depends on every package in npm.
 ## Installation
 Please don't...
 
-`npm no-one-left-behind`
+`npm install no-one-left-behind`
 
 ## Generate new version
 
